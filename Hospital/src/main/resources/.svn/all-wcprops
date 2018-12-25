@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/resources
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/resources/jdbc.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/resources/log4j.properties
+END
+spring-db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/resources/spring-db.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/resources/applicationContext.xml
+END
+spring-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/resources/spring-dao.xml
+END
+spring-tx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/resources/spring-tx.xml
+END

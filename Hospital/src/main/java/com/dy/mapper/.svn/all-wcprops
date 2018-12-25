@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/mapper
+END
+AdviceFlowMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/mapper/AdviceFlowMapper.xml
+END
+FeeMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/mapper/FeeMapper.xml
+END
+MedicinalMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/mapper/MedicinalMapper.xml
+END
+AdviceMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/mapper/AdviceMapper.xml
+END
+EvaluateMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/mapper/EvaluateMapper.xml
+END
+UserMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Eclipse-Hospital/!svn/ver/3/Hospital/src/main/java/com/dy/mapper/UserMapper.xml
+END
+ProfessionMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/mapper/ProfessionMapper.xml
+END
+SubjectMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/mapper/SubjectMapper.xml
+END
+ManagerMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Eclipse-Hospital/!svn/ver/3/Hospital/src/main/java/com/dy/mapper/ManagerMapper.xml
+END
+OrderMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/mapper/OrderMapper.xml
+END
+DoctorMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Eclipse-Hospital/!svn/ver/3/Hospital/src/main/java/com/dy/mapper/DoctorMapper.xml
+END
+CaseMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/mapper/CaseMapper.xml
+END
+PatientMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Eclipse-Hospital/!svn/ver/3/Hospital/src/main/java/com/dy/mapper/PatientMapper.xml
+END

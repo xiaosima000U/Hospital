@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp
+END
+message.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/message.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/error.jsp
+END
+doc-advice-manager-input.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/doc-advice-manager-input.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/logout.jsp
+END
+patient-doc-evaluate-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-doc-evaluate-add.jsp
+END
+doc-patient-query.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/doc-patient-query.jsp
+END
+patient-info-set.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-info-set.jsp
+END
+doc-advice-manager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/doc-advice-manager.jsp
+END
+doc-case-manager-update.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/doc-case-manager-update.jsp
+END
+main-patient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/main-patient.jsp
+END
+man-doc-manager-update.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/man-doc-manager-update.jsp
+END
+patient-advice-add-input.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-advice-add-input.jsp
+END
+man-patient-manager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/man-patient-manager.jsp
+END
+patient-case-query.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-case-query.jsp
+END
+patient-advice-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-advice-add.jsp
+END
+patient-doc-evaluate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-doc-evaluate.jsp
+END
+patient-password-set.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-password-set.jsp
+END
+doc-case-manager-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/doc-case-manager-add.jsp
+END
+doc-case-medicinalsadd-input.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/doc-case-medicinalsadd-input.jsp
+END
+doc-order-manager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/doc-order-manager.jsp
+END
+main-manager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/main-manager.jsp
+END
+man-doc-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/man-doc-add.jsp
+END
+patient-fee-query.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-fee-query.jsp
+END
+patient-order-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-order-add.jsp
+END
+patient-advice-query.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-advice-query.jsp
+END
+doc-case-manager-input.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/doc-case-manager-input.jsp
+END
+main-doc.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/main-doc.jsp
+END
+doc-case-manager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/doc-case-manager.jsp
+END
+man-doc-manager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/man-doc-manager.jsp
+END
+patient-order.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/jsp/patient-order.jsp
+END

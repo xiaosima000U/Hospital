@@ -1,0 +1,28 @@
+10
+
+dir
+0
+http://desktop-g4odsr8:81/svn/Eclipse-Hospital/Hospital/target/m2e-wtp/web-resources
+http://desktop-g4odsr8:81/svn/Eclipse-Hospital
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ae064e39-b32d-0642-b8f5-0ff9847e0461
+

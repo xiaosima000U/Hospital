@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao
+END
+DoctorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/DoctorMapper.java
+END
+OrderMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/OrderMapper.java
+END
+ManagerMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/ManagerMapper.java
+END
+ProfessionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/ProfessionMapper.java
+END
+SubjectMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/SubjectMapper.java
+END
+UserMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/UserMapper.java
+END
+EvaluateMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/EvaluateMapper.java
+END
+AdviceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/AdviceMapper.java
+END
+AdviceFlowMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/AdviceFlowMapper.java
+END
+FeeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/FeeMapper.java
+END
+MedicinalMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/MedicinalMapper.java
+END
+PatientMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/PatientMapper.java
+END
+CaseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/dao/CaseMapper.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service
+END
+PatientService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/PatientService.java
+END
+FeeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/FeeService.java
+END
+MedicinalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/MedicinalService.java
+END
+AdviceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/AdviceService.java
+END
+EvaluateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/EvaluateService.java
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/UserService.java
+END
+ProfessionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/ProfessionService.java
+END
+SubjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/SubjectService.java
+END
+ManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/ManagerService.java
+END
+OrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/OrderService.java
+END
+DoctorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/DoctorService.java
+END
+CaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/java/com/dy/service/CaseService.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper
+END
+AdviceFlowMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/AdviceFlowMapper.xml
+END
+FeeMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/FeeMapper.xml
+END
+MedicinalMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/MedicinalMapper.xml
+END
+AdviceMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/AdviceMapper.xml
+END
+EvaluateMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/EvaluateMapper.xml
+END
+UserMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/UserMapper.xml
+END
+ProfessionMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/ProfessionMapper.xml
+END
+SubjectMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/SubjectMapper.xml
+END
+ManagerMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/ManagerMapper.xml
+END
+OrderMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/OrderMapper.xml
+END
+DoctorMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/DoctorMapper.xml
+END
+CaseMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/CaseMapper.xml
+END
+PatientMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/mapper/PatientMapper.xml
+END

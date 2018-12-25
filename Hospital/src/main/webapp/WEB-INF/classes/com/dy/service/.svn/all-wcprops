@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service
+END
+DoctorService.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/DoctorService.class
+END
+OrderService.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/OrderService.class
+END
+ManagerService.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/ManagerService.class
+END
+ProfessionService.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/ProfessionService.class
+END
+SubjectService.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/SubjectService.class
+END
+UserService.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/UserService.class
+END
+EvaluateService.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/EvaluateService.class
+END
+AdviceService.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/AdviceService.class
+END
+FeeService.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/FeeService.class
+END
+MedicinalService.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/MedicinalService.class
+END
+PatientService.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/PatientService.class
+END
+CaseService.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/classes/com/dy/service/CaseService.class
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/include/jsp
+END
+left-manager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/include/jsp/left-manager.jsp
+END
+left.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/include/jsp/left.jsp
+END
+head-patient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/include/jsp/head-patient.jsp
+END
+head-doc.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/include/jsp/head-doc.jsp
+END
+left-patient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/include/jsp/left-patient.jsp
+END
+head-manager.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/include/jsp/head-manager.jsp
+END
+head.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/include/jsp/head.jsp
+END
+left-doc.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Eclipse-Hospital/!svn/ver/2/Hospital/src/main/webapp/WEB-INF/include/jsp/left-doc.jsp
+END
